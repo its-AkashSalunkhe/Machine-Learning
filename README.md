@@ -21,7 +21,7 @@ It is designed to provide a structured learning path from the fundamentals of Ma
 - Real-world Machine Learning Projects
 
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - Python
 - NumPy
@@ -29,34 +29,26 @@ It is designed to provide a structured learning path from the fundamentals of Ma
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- SciPy
 - Jupyter Notebook
 
 
 ## 📂 Repository Structure
 
+```text
 Machine-Learning/
-
-├── datasets
-
-├── Regression
-
-├── Classification
-
-├── Clustering
-
-├── Feature_Engineering
-
-├── Ensemble_Learning
-
-├── Cross_Validation
-
-├── Projects
-
-├── README.md
-
-├── requirements.txt
-
-└── LICENSE
+│
+├── 00_datasets/
+├── 01_Linear_Regression/
+├── 02_Non_Linear_Regression/
+├── 03_Classification/
+├── 04_Clustering/
+├── 05_Feature_Engineering/
+├── 06_Regularization/
+├── 07_Ensemble_Learning/
+├── 08_Cross_Validation/
+└── 09_Projects/
+```
 
 
 
